@@ -1,0 +1,106 @@
+ 
+.top {
+    background-color: #003D5B;
+    position: relative;
+    padding-top: 100px; 
+   
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300;
+}
+
+body { 
+    background-color: #003D5B;
+    color: #EDAE49;
+    margin: 0;
+   text-align: center;
+   font-family: Mochiy Pop P One;
+   font-size: 40px;
+}
+
+h1 {
+    color: #D1495B;
+    margin: 100px auto 50px auto;
+    font-family: Sacramento; 
+    font-size: 150px;
+}
+
+h2 {
+    color: #D1495B;
+    font-family: Sacramento;
+    
+}
+
+h3 {
+    color: #D1495B;
+    font-family: Sacramento;
+}
+
+p {
+    font-size: 30px;
+}
+
+.btn {
+    color: #D1495B;
+    font-family: Patrick hand;
+    
+}
+.footer-link {
+    color: #00798c;
+    font-family: Patrick hand;
+}
+
+
+.Linked-In {
+    height: 100px;
+}
+
+.Discord {
+    height: 100px;
+}
+
+.Email {
+    height: 100px;
+}
+
+
+.pic {
+    padding-right: 1200px;
+}
+
+.controller {
+    height: 250px;
+    float: left;
+    padding: 45px;
+}
+
+.game-over {
+    height: 250px;
+    float: right;
+    padding: 40px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 45px;
+ 
+}
+
+hr {
+    border-color: #00798C;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 12px;
+    width: 5%
+  }
